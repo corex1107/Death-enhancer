@@ -23,7 +23,7 @@ import java.net.URL;
 @PluginDescriptor(
 		name = "Oof Sound"
 )
-public class OefPlugin extends Plugin {
+class OefPlugin extends Plugin {
 
 	String soundFilePath = "MinecraftOefSound.wav";
 
